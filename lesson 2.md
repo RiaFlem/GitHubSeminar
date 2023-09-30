@@ -13,3 +13,5 @@
 > git log --oneline - короткий журнал.
 
 ![Это бука Шери](Sheri.jpeg)
+
+Вставка ссылки - [Озарк 2 сезон](https://hd12.4lordserials.xyz/5042-ozark-w7.html)
